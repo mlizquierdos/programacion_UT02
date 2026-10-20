@@ -11,12 +11,14 @@ Versión adaptada a **Java** (Java 21 LTS o superior) a partir del material orig
 3. [Programación modular](03-programacion-modular.md)
 4. [Control de excepciones](04-control-excepciones.md)
 5. [Resumen](05-resumen.md)
+6. [Documentación del código con Javadoc](javadoc.md)
 
 ## Contenido en YouTube
 
 - [Resumen](https://youtu.be/ctqQBsqwf18)
 - [Programación estructurada](https://youtu.be/LSCMdO3ywdQ)
 - [Programación modular, pasos de parámetros y excepciones](https://youtu.be/TW3utlFXeps)
+- [Documentación del código con Javadoc](https://youtu.be/GDX0oa0voec)
 - [Lista de reproducción](https://www.youtube.com/playlist?list=PLK1PMlIrqj3c)
 
 ## Resultados de aprendizaje y criterios de evaluación
@@ -79,3 +81,4 @@ José Luis González Sánchez</a> is licensed under
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
 Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License</a>.<br />Creado a partir de la obra
 en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/joseluisgs" rel="dct:source">https://github.com/joseluisgs</a>.
+
